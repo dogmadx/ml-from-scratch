@@ -1,0 +1,15 @@
+LICENSE
+README.md
+pyproject.toml
+scratchml/__init__.py
+scratchml/base.py
+scratchml.egg-info/PKG-INFO
+scratchml.egg-info/SOURCES.txt
+scratchml.egg-info/dependency_links.txt
+scratchml.egg-info/top_level.txt
+scratchml/linear_model/__init__.py
+scratchml/linear_model/gd_lin_regression.py
+scratchml/metrics/__init__.py
+scratchml/metrics/regression.py
+scratchml/utils/__init__.py
+scratchml/utils/validation.py

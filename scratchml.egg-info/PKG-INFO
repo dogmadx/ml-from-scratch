@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: scratchml
+Version: 0.1.0
+Summary: Machine learning from scratch library
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: license-file
+
+# ml-from-scratch
+Educational machine learning library implemented from scratch in pure NumPy.
